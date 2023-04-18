@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chanixo
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+im softoware ingenieur student 
 - 📫 How to reach me  ilyaschani1@gmail.com
 
 <!---
