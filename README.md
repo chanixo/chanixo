@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chanixo
-im software ingenieur  student 
+im software ingenieur   
 - 📫 How to reach me  ilyaschani1@gmail.com
 
 <!---
